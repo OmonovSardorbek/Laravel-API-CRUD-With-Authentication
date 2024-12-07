@@ -18,7 +18,7 @@ User authentication (Registration, Login, Logout) example of Laravel API using S
 Clone the repository in your local directory
 
 ```
-git clone https://github.com/tarikulwebx/Laravel-Auth-API.git
+git clone https://github.com/OmonovSardorbek/Laravel-API-CRUD-With-Authentication.git
 ```
 
 ### Step 2:
