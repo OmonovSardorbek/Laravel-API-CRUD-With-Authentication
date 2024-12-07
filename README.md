@@ -88,4 +88,7 @@ Logout
 ```
 http://127.0.0.1:8000/api/logout
 ```
+![1](https://github.com/user-attachments/assets/d4ab92f5-25ad-4783-9696-ba69b743513e)
+![2](https://github.com/user-attachments/assets/23b92c7e-269d-4175-ae81-a76f09b66cdf)
+![3](https://github.com/user-attachments/assets/a25a2b8e-b720-47d6-b882-1446dab7851f)
 
