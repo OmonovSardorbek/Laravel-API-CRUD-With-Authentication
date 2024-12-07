@@ -70,7 +70,8 @@ php artisan serve
 
 ### Step 7:
 
-Use Postman to test the API for the register, login and logout process. The working API routes are-
+Use Postman to test the API for the register, login and logout process. The working API routes are:
+
 Register
 
 ```
