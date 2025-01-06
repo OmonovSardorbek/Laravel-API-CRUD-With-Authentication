@@ -25,7 +25,7 @@ git clone https://github.com/OmonovSardorbek/Laravel-API-CRUD-With-Authenticatio
 
 Create .env file in your project root directory and copy all lines of codes from .env.example to .env.
 
-Change following database credentials according to your local MySQL or SQLite database.
+Change following database and SMTP credentials according to your local MySQL or SQLite database.
 
 ```
 DB_CONNECTION=mysql
@@ -35,6 +35,19 @@ DB_DATABASE=your_db_name
 DB_USERNAME=root
 DB_PASSWORD=
 ```
+
+
+```
+MAIL_MAILER=log
+MAIL_HOST=127.0.0.1
+MAIL_PORT=2525
+MAIL_USERNAME=your_username
+MAIL_PASSWORD=your_password
+MAIL_ENCRYPTION=null
+MAIL_FROM_ADDRESS="hello@example.com"
+MAIL_FROM_NAME="${APP_NAME}"
+```
+
 
 ### Step 3:
 
